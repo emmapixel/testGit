@@ -1,5 +1,9 @@
 Why did the developer go broke?
+<<<<<<< Updated upstream
 Because he kept flushing his cache!
+=======
+Because he couldn't optimize his cache flow!
+>>>>>>> Stashed changes
 
 Why do Java developers wear glasses? 
 Because they don't C#!
